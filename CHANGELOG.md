@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.0.0...v1.1.0) (2023-04-20)
+
+
+### Features
+
+* Semantic release ([8845033](https://github.com/emergoncalves/semantic-release-lab/commit/8845033253042b7ab73e196f8c23e901cbaa1a44))
+
 # 1.0.0 (2023-04-20)
 
 
