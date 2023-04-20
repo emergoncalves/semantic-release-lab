@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.1.1...v1.2.0) (2023-04-20)
+
+
+### Bug Fixes
+
+* add text to about us ([3ba1f3d](https://github.com/emergoncalves/semantic-release-lab/commit/3ba1f3db94acc19c7f2cbdf0d9b8c50e720401e6))
+
+
+### Features
+
+* Add h1 to home page ([d509e8b](https://github.com/emergoncalves/semantic-release-lab/commit/d509e8b9ca2ed007460f35db2a8614d450fa50f6))
+
 ## [1.1.1](https://github.com/emergoncalves/semantic-release-lab/compare/v1.1.0...v1.1.1) (2023-04-20)
 
 
