@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.2.1...v1.3.0) (2023-04-20)
+
+
+### Features
+
+* Add new title ([e8a3fa8](https://github.com/emergoncalves/semantic-release-lab/commit/e8a3fa814d5a1261a6e942bf8d367bc5eaaa2eaf))
+
 ## [1.2.1](https://github.com/emergoncalves/semantic-release-lab/compare/v1.2.0...v1.2.1) (2023-04-20)
 
 
