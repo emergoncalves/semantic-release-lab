@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/emergoncalves/semantic-release-lab/compare/v1.2.0...v1.2.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* Adjust text ([dc24618](https://github.com/emergoncalves/semantic-release-lab/commit/dc246189d33c7de14fbe745104f21d7aa13bad92))
+
 # [1.2.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.1.1...v1.2.0) (2023-04-20)
 
 
