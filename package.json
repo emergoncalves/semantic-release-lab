@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "SemanticReleaseTest",
   "scripts": {
     "dev": "next",
     "build": "next build",
