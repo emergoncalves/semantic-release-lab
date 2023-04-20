@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/emergoncalves/semantic-release-lab/compare/v1.1.0...v1.1.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* remove emoji ([512b411](https://github.com/emergoncalves/semantic-release-lab/commit/512b411037c7bc5e4ea05c061f873d49b61ea1d5))
+
 # [1.1.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.0.0...v1.1.0) (2023-04-20)
 
 
