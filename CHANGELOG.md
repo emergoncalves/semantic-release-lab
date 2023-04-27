@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.4.0...v1.5.0) (2023-04-27)
+
+
+### Features
+
+* add antd ([ec2c68d](https://github.com/emergoncalves/semantic-release-lab/commit/ec2c68dd0d1c04a9ae06e64fc415edb50192888d))
+
 # [1.4.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.3.0...v1.4.0) (2023-04-20)
 
 
