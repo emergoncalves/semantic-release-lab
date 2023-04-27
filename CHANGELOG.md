@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.5.0...v2.0.0) (2023-04-27)
+
+
+### Features
+
+* add antd ([88fed0d](https://github.com/emergoncalves/semantic-release-lab/commit/88fed0dad1e25627b7afe4da993e47f8443cfd66))
+* add test step in CI ([9b6c2e2](https://github.com/emergoncalves/semantic-release-lab/commit/9b6c2e26fa6e6184d2eed9d9232f800c3530502c))
+
+
+### BREAKING CHANGES
+
+*
+
 # [1.5.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.4.0...v1.5.0) (2023-04-27)
 
 
