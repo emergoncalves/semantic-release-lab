@@ -38,13 +38,11 @@
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     "@semantic-release/github",
-    "@semantic-release/npm",
     "@semantic-release/git"
   ],
   "release": {
     "prepare": [
       "@semantic-release/changelog",
-      // "@semantic-release/npm",
       {
         "path": "@semantic-release/git",
         "assets": [
