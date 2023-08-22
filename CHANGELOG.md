@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/emergoncalves/semantic-release-lab/compare/v2.0.0...v2.0.1) (2023-08-22)
+
+
+### Bug Fixes
+
+* delete the commented line ([165620a](https://github.com/emergoncalves/semantic-release-lab/commit/165620a59ae21bc9a8cecddfcf1eef2961a01e43))
+* remove semantic-release npm ([6176d39](https://github.com/emergoncalves/semantic-release-lab/commit/6176d3967917f1da3e3e141f8cef47b14085a5ac))
+
 # [2.0.0](https://github.com/emergoncalves/semantic-release-lab/compare/v1.5.0...v2.0.0) (2023-04-27)
 
 
