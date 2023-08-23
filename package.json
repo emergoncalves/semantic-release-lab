@@ -52,11 +52,11 @@
         ],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
+    ],
+    "branches": [
+      "master",
+      "feature/version-2-1"
     ]
   },
-  "branches": [
-    "master",
-    "feature/version-2-1"
-  ],
   "version": "2.0.0"
 }
