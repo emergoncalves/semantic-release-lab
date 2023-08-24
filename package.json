@@ -56,7 +56,8 @@
     "branches": [
       "master",
       "feature/version-2-1"
-    ]
+    ],
+    "getChannel": "echo ${BRANCH_NAME//\\//-}"
   },
   "version": "2.0.0"
 }
