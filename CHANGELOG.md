@@ -1,3 +1,11 @@
+# [2.1.0](https://github.com/emergoncalves/semantic-release-lab/compare/v2.0.1...v2.1.0) (2023-08-24)
+
+
+### Features
+
+* generate new ([b99dadc](https://github.com/emergoncalves/semantic-release-lab/commit/b99dadc527c9c1b86d5b81330a4ba9618e1a6e11))
+* test show 2.1.0 version ([8ad49e8](https://github.com/emergoncalves/semantic-release-lab/commit/8ad49e893ae35292dd26f412e6897a8eea7bd75b))
+
 # [2.1.0](https://github.com/emergoncalves/semantic-release-lab/compare/v2.0.1...v2.1.0) (2023-08-22)
 
 
