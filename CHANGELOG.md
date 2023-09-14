@@ -1,3 +1,17 @@
+# [2.1.0-Dev.1](https://github.com/emergoncalves/semantic-release-lab/compare/v2.0.1...v2.1.0-Dev.1) (2023-09-14)
+
+
+### Bug Fixes
+
+* change version test ([54a064a](https://github.com/emergoncalves/semantic-release-lab/commit/54a064a1139c5bc3397afb3ac2d08a39034e29db))
+
+
+### Features
+
+* add test change to change version ([eff3d54](https://github.com/emergoncalves/semantic-release-lab/commit/eff3d54f5106a969d4b037e38143a4f8b1a742f7))
+* change to test semantic-release ([d922206](https://github.com/emergoncalves/semantic-release-lab/commit/d922206603484bae221e8c29c1b3bd13151a886b))
+* test show 2.1.0 version ([8ad49e8](https://github.com/emergoncalves/semantic-release-lab/commit/8ad49e893ae35292dd26f412e6897a8eea7bd75b))
+
 # [2.1.0](https://github.com/emergoncalves/semantic-release-lab/compare/v2.0.1...v2.1.0) (2023-09-14)
 
 
