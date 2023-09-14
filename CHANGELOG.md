@@ -1,3 +1,10 @@
+# [2.1.0-Dev.3](https://github.com/emergoncalves/semantic-release-lab/compare/v2.1.0-Dev.2...v2.1.0-Dev.3) (2023-09-14)
+
+
+### Features
+
+* new test feature ([d06a561](https://github.com/emergoncalves/semantic-release-lab/commit/d06a561261b556c0d1e2130a98045da8afb98a36))
+
 # [2.1.0-Dev.2](https://github.com/emergoncalves/semantic-release-lab/compare/v2.1.0-Dev.1...v2.1.0-Dev.2) (2023-09-14)
 
 
