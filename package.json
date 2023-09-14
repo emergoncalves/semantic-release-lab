@@ -33,14 +33,14 @@
     "jest-environment-jsdom": "^29.5.0",
     "typescript": "^4.8.3"
   },
-  "plugins": [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
-    "@semantic-release/changelog",
-    "@semantic-release/github",
-    "@semantic-release/git"
-  ],
   "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/github",
+      "@semantic-release/git"
+    ],
     "prepare": [
       "@semantic-release/changelog",
       {
@@ -52,7 +52,20 @@
         ],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
-    ]
+    ],
+    "branches": [
+      "master",
+      {
+        "name": "Dev",
+        "prerelease": true
+      },
+      {
+        "name": "alpha",
+        "prerelease": true
+      },
+      "feature/version-2-1"
+    ],
+    "getChannel": "echo ${BRANCH_NAME//\\//-}"
   },
   "version": "2.0.0"
 }
