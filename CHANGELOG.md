@@ -1,3 +1,10 @@
+## [2.1.1-Dev.1](https://github.com/emergoncalves/semantic-release-lab/compare/v2.1.0...v2.1.1-Dev.1) (2023-09-14)
+
+
+### Bug Fixes
+
+* change title ([1a19d88](https://github.com/emergoncalves/semantic-release-lab/commit/1a19d88c889f49e8fe5e6336a819073c9b87e586))
+
 ### Bug Fixes
 
 * change title ([1a19d88](https://github.com/emergoncalves/semantic-release-lab/commit/1a19d88c889f49e8fe5e6336a819073c9b87e586))
